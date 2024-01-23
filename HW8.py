@@ -4,7 +4,7 @@ def convert_to_miles(km):
     return km * 0.6214
 
 # считываем данные
-num = input('enter: ')
+num = 28
 
 print('test')
 
