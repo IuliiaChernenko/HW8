@@ -6,5 +6,7 @@ def convert_to_miles(km):
 # считываем данные
 num = input('enter: ')
 
+print('test')
+
 # вызываем функцию
 print(convert_to_miles(num))
