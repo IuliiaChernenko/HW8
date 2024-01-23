@@ -9,3 +9,4 @@ def test(a):
 test(12)
 test(2.023)
 test(0)
+test(7)
